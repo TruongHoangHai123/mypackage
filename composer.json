@@ -1,0 +1,34 @@
+{
+    "name": "TruongHoangHai123/mypackage",
+    "description": "mypackage",
+    "keywords": [
+        "truonghoanghai123"
+    ],
+    "authors": [
+        {
+            "name": "TruongHoangHai123",
+            "email": "truonghoanghai.tdc2019@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "PhanNhatQuy\\Mypackage\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "classmap": [
+
+        ]
+    },
+    "scripts": {
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "preferred-install": "dist"
+    }
+}
